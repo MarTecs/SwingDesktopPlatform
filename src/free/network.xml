@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<network>
+    <node x="30" y="50"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/submodule.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <shortcuts>
+            <separator text="Most Often Used Reports"/>
+            <shortcut text="Add a Part" tooltip="This is a tooltip" icon="/free/test/submodule.png" action="Z010"/>
+            <shortcut text="Delete a Part" tooltip="This is a tooltip" icon="/free/test/submodule.png" action="Z010"/>
+            <shortcut text="AP Aging Report" tooltip="This is a tooltip" icon="/free/test/chart.png" action="Z010"/>
+            <shortcut text="MRP for All Parts Used this Month" tooltip="This is a tooltip" icon="/free/test/user.png" action="Z010"/>
+            <shortcut text="Dashboard of this Month" tooltip="This is a tooltip" icon="/free/test/email.png" action="Z010"/>
+            <shortcut text="All Open Purchase Orders" tooltip="This is a tooltip" icon="/free/test/chart.png" action="Z010"/>
+            <shortcut text="Search in Address Book" tooltip="This is a tooltip" icon="/free/test/user.png" action="Z010"/>
+            <shortcut text="All Online Users" tooltip="This is a tooltip" icon="/free/test/email.png" action="Z010"/>
+            <separator text="Common Reports"/>
+            <shortcut text="All Open Purchase Orders" tooltip="This is a tooltip" icon="/free/test/chart.png" action="Z010"/>
+            <shortcut text="Search in Address Book" tooltip="This is a tooltip" icon="/free/test/user.png" action="Z010"/>
+            <shortcut text="All Online Users" tooltip="This is a tooltip" icon="/free/test/email.png" action="Z010"/>
+            <shortcut text="All Open Purchase Orders" tooltip="This is a tooltip" icon="/free/test/chart.png" action="Z010"/>
+            <shortcut text="Search in Address Book" tooltip="This is a tooltip" icon="/free/test/user.png" action="Z010"/>
+            <shortcut text="All Online Users" tooltip="This is a tooltip" icon="/free/test/email.png" action="Z010"/>
+            <shortcut text="All Open Purchase Orders" tooltip="This is a tooltip" icon="/free/test/chart.png" action="Z010"/>
+            <shortcut text="Search in Address Book" tooltip="This is a tooltip" icon="/free/test/user.png" action="Z010"/>
+            <shortcut text="All Online Users" tooltip="This is a tooltip" icon="/free/test/email.png" action="Z010"/>
+        </shortcuts>
+    </node>
+    <node x="230" y="50"
+          text="General Ledger"
+          network_text="General\nLedger"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/chart.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="430" y="50" text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/user.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="30" y="220"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/submodule.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="230" y="220"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/chart.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="430" y="220"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/user.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="30" y="390"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/submodule.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="230" y="390"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/chart.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+    <node x="430" y="390"
+          text="AP Prepay"
+          network_text="AP Prepay"
+          tooltip="This is a tooltip of a node"
+          icon="/free/test/module.png"
+          list_icon="/free/test/user.png">
+        <button1 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button2 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+        <button3 tooltip="This is a tooltip of a button" icon="/free/test/module_attachment.png" action="X002"/>
+    </node>
+
+    <arrow x="170" y="80" direction="left" rotation="0"/>
+    <arrow x="60" y="170" direction="up" rotation="0"/>
+    <arrow x="260" y="170" direction="up" rotation="0"/>
+    <arrow x="365" y="175" direction="right_up" rotation="0"/>
+    <arrow x="170" y="255" direction="left" rotation="0"/>
+    <arrow x="370" y="255" direction="right" rotation="0"/>
+    <arrow x="260" y="340" direction="down" rotation="0"/>
+    <arrow x="370" y="420" direction="right" rotation="0"/>
+</network>

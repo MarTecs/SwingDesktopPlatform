@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<toolbar>
+	<button tooltip="This is a tooltip of a button" icon="/free/test/message.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/email.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/viewer.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/capture.png" action="B001" />
+	<separator/>
+    <button tooltip="This is a tooltip of a button" icon="/free/test/image_edit.png" action="B001" />
+	<separator/>
+</toolbar>

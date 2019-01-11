@@ -1,0 +1,1 @@
+java -classpath demo.jar;twaver.jar demo.Main

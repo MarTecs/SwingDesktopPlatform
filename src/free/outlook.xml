@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outlook>
+	<module text="Engineering Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Purchasing Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Sales Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Warehouse Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Work Order Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Manufacturing Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Quality Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Accounting Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Security Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+    <module text="Control Panel Box" icon="/free/test/module_unselected.png" selected_icon="/free/test/module_selected.png" network="network.xml">
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/submodule.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/chart.png" action="C001"/>
+        <submodule text="AP Prepay" tooltip="This is a tooltip of a button" icon="/free/test/user.png" action="C001"/>
+	</module>
+</outlook>

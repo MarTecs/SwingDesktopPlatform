@@ -1,0 +1,1 @@
+java -classpath free.jar;looks-2.1.4.jar;twaver.jar free.Shell
